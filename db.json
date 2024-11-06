@@ -1,0 +1,1548 @@
+{
+  "prodotti": [
+    {
+      "id": 1,
+      "nome": "Lab Air 270",
+      "categoria": "Sneakers",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Grigio",
+        "Blu",
+        "Rosso"
+      ],
+      "descrizione": "Le Lab Air 270 offrono un comfort incredibile grazie all'ammortizzazione Air Max. Ideali per l'uso quotidiano e l'attività sportiva.",
+      "immagine": "/assets/image/airforce1.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 5
+    },
+    {
+      "id": 2,
+      "nome": "Lab React Infinity Run Flyknit",
+      "categoria": "Running",
+      "prezzo": 159.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero/Giallo",
+        "Grigio/Blu",
+        "Bianco/Rosso",
+        "Verde",
+        "Blu"
+      ],
+      "descrizione": "Le Lab React Infinity Run Flyknit sono progettate per la massima ammortizzazione e stabilità durante la corsa. Con tomaia in Flyknit per un comfort superiore.",
+      "immagine": "/assets/image/airforce2.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 5
+    },
+    {
+      "id": 3,
+      "nome": "Lab Air Force 1",
+      "categoria": "Sneakers",
+      "prezzo": 109.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Bianco",
+        "Nero",
+        "Rosso",
+        "Blu",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Force 1 sono un'icona streetwear, caratterizzate da un design classico e un comfort eccezionale.",
+      "immagine": "/assets/image/airforce3.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 4
+    },
+    {
+      "id": 4,
+      "nome": "Lab Air Zoom Pegasus 38",
+      "categoria": "Running",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Grigio/Arancione",
+        "Bianco/Nero",
+        "Blu/Verde",
+        "Rosso",
+        "Nero"
+      ],
+      "descrizione": "Le Lab Air Zoom Pegasus 38 offrono una corsa reattiva e ammortizzata grazie all'unità Zoom Air. Ideali per runner di tutti i livelli.",
+      "immagine": "/assets/image/airforce4.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 5
+    },
+    {
+      "id": 5,
+      "nome": "Lab Air Jordan 1 Mid",
+      "categoria": "Basket",
+      "prezzo": 149.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero/Rosso",
+        "Bianco/Nero",
+        "Blu/Rosso",
+        "Verde",
+        "Rosso/Bianco"
+      ],
+      "descrizione": "Le Lab Air Jordan 1 Mid sono scarpe da basket iconiche, ispirate al modello originale del 1985. Confortevoli e dal look distintivo.",
+      "immagine": "/assets/image/airforce5.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 5
+    },
+    {
+      "id": 6,
+      "nome": "Lab Revolution 5",
+      "categoria": "Running",
+      "prezzo": 79.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Grigio",
+        "Blu",
+        "Rosso"
+      ],
+      "descrizione": "Le Lab Revolution 5 sono scarpe leggere e traspiranti, ideali per correre o per l'uso quotidiano. Ottimo rapporto qualità-prezzo.",
+      "immagine": "/assets/image/airforce6.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 3
+    },
+    {
+      "id": 7,
+      "nome": "Lab Air Zoom Structure 24",
+      "categoria": "Running",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero/Grigio",
+        "Bianco/Nero",
+        "Blu",
+        "Rosso",
+        "Verde"
+      ],
+      "descrizione": "Le Lab Air Zoom Structure 24 sono scarpe da corsa stabili e ammortizzate, ideali per runner che cercano supporto e comfort.",
+      "immagine": "/assets/image/airforce7.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 4
+    },
+    {
+      "id": 8,
+      "nome": "Lab Air Max 97",
+      "categoria": "Sneakers",
+      "prezzo": 179.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Argento",
+        "Nero",
+        "Oro",
+        "Rosso",
+        "Bianco"
+      ],
+      "descrizione": "Le Lab Air Max 97 sono sneakers iconiche caratterizzate da un design futuristico e un'ammortizzazione leggendaria.",
+      "immagine": "/assets/image/airforce8.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 3
+    },
+    {
+      "id": 9,
+      "nome": "Lab Air Zoom Terra Kiger 7",
+      "categoria": "Trail Running",
+      "prezzo": 139.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero/Grigio",
+        "Blu",
+        "Verde",
+        "Rosso",
+        "Arancione"
+      ],
+      "descrizione": "Le Lab Air Zoom Terra Kiger 7 sono progettate per il trail running, offrendo trazione e stabilità su terreni accidentati.",
+      "immagine": "/assets/image/airforce19.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 5
+    },
+    {
+      "id": 10,
+      "nome": "Lab Air VaporMax Plus",
+      "categoria": "Sneakers",
+      "prezzo": 209.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Verde"
+      ],
+      "descrizione": "Le Lab Air VaporMax Plus offrono un'esperienza di corsa leggera e reattiva grazie all'unità VaporMax a tutta lunghezza.",
+      "immagine": "/assets/image/airforce10.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 2
+    },
+    {
+      "id": 11,
+      "nome": "Lab Air Max 90",
+      "categoria": "Sneakers",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max 90 sono sneakers classiche con dettagli iconici, offrendo comfort e stile per tutti i giorni.",
+      "immagine": "/assets/image/airforce11.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 3
+    },
+    {
+      "id": 12,
+      "nome": "Lab Air Zoom Vomero 16",
+      "categoria": "Running",
+      "prezzo": 149.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Verde"
+      ],
+      "descrizione": "Le Lab Air Zoom Vomero 16 sono scarpe da corsa ammortizzate e reattive, ideali per lunghe distanze e allenamenti intensi.",
+      "immagine": "/assets/image/airforce12.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 2
+    },
+    {
+      "id": 13,
+      "nome": "Lab Air Jordan 4 Retro",
+      "categoria": "Basket",
+      "prezzo": 199.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero/Rosso",
+        "Bianco/Nero",
+        "Blu/Rosso",
+        "Grigio",
+        "Verde"
+      ],
+      "descrizione": "Le Lab Air Jordan 4 Retro sono scarpe da basket iconiche con dettagli classici e comfort eccezionale.",
+      "immagine": "/assets/image/airforce13.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 3
+    },
+    {
+      "id": 14,
+      "nome": "Lab Blazer Mid '77 Vintage",
+      "categoria": "Sneakers",
+      "prezzo": 99.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Bianco",
+        "Nero",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Blazer Mid '77 Vintage sono sneakers retrò con uno stile distintivo e una tomaia in pelle premium.",
+      "immagine": "/assets/image/airforce14.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 4
+    },
+    {
+      "id": 15,
+      "nome": "Lab Air Max Excee",
+      "categoria": "Sneakers",
+      "prezzo": 89.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Bianco",
+        "Nero",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max Excee sono ispirate alle iconiche Air Max 90, offrendo comfort e stile in un design moderno.",
+      "immagine": "/assets/image/airforce15.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 5
+    },
+    {
+      "id": 16,
+      "nome": "Lab Air Zoom SuperRep 2",
+      "categoria": "Training",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Verde"
+      ],
+      "descrizione": "Le Lab Air Zoom SuperRep 2 sono scarpe da training con ammortizzazione reattiva e supporto per gli allenamenti più intensi.",
+      "immagine": "/assets/image/airforce16.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 2
+    },
+    {
+      "id": 17,
+      "nome": "Lab Air Zoom Freak 3",
+      "categoria": "Basket",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero/Bianco",
+        "Rosso/Nero",
+        "Blu",
+        "Grigio",
+        "Verde"
+      ],
+      "descrizione": "Le Lab Air Zoom Freak 3 sono scarpe da basket progettate per la potenza e la velocità di Giannis Antetokounmpo. Massima trazione e stabilità.",
+      "immagine": "/assets/image/airforce17.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 4
+    },
+    {
+      "id": 18,
+      "nome": "Lab Renew Run",
+      "categoria": "Running",
+      "prezzo": 99.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Verde"
+      ],
+      "descrizione": "Le Lab Renew Run sono scarpe da corsa ammortizzate e leggere, ideali per corridori di tutti i livelli.",
+      "immagine": "/assets/image/airforce18.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 5
+    },
+    {
+      "id": 19,
+      "nome": "Lab Air Max Sequent 4",
+      "categoria": "Sneakers",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max Sequent 4 sono scarpe da corsa comode e versatili, ideali per l'uso quotidiano o l'allenamento leggero.",
+      "immagine": "/assets/image/airforce19.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 2
+    },
+    {
+      "id": 20,
+      "nome": "Lab Air Max 2090",
+      "categoria": "Sneakers",
+      "prezzo": 149.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max 2090 sono ispirate all'iconica Air Max 90, con un design futuristico e un'ammortizzazione avanzata.",
+      "immagine": "/assets/image/airforce20.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 5
+    },
+    {
+      "id": 21,
+      "nome": "Lab Joyride Run Flyknit",
+      "categoria": "Running",
+      "prezzo": 159.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Joyride Run Flyknit offrono un'esperienza di corsa rivoluzionaria grazie alla tecnologia di ammortizzazione a microsfere.",
+      "immagine": "/assets/image/airforce2.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 3
+    },
+    {
+      "id": 22,
+      "nome": "Lab Air Max Tailwind IV",
+      "categoria": "Sneakers",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max Tailwind IV sono scarpe da running retrò con un'ammortizzazione Air Max e uno stile distintivo.",
+      "immagine": "/assets/image/airforce22.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 5
+    },
+    {
+      "id": 23,
+      "nome": "Lab Air Zoom Structure 23",
+      "categoria": "Running",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Zoom Structure 23 offrono supporto e stabilità per i runner, con un'ammortizzazione reattiva e una tomaia traspirante.",
+      "immagine": "/assets/image/airforce.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 2
+    },
+    {
+      "id": 24,
+      "nome": "Lab Air Max 270 React",
+      "categoria": "Sneakers",
+      "prezzo": 159.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max 270 React uniscono il comfort dell'unità Air Max con la reattività della tecnologia React.",
+      "immagine": "/assets/image/airforce1.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 5
+    },
+    {
+      "id": 25,
+      "nome": "Lab Air Zoom Wildhorse 7",
+      "categoria": "Trail Running",
+      "prezzo": 139.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Zoom Wildhorse 7 sono scarpe da trail running progettate per la massima trazione e stabilità su terreni accidentati.",
+      "immagine": "/assets/image/airforce2.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 2
+    },
+    {
+      "id": 26,
+      "nome": "Lab React Infinity Run Flyknit 2",
+      "categoria": "Running",
+      "prezzo": 169.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab React Infinity Run Flyknit 2 sono scarpe da corsa con una tomaia in Flyknit e un'ammortizzazione reattiva per una corsa fluida.",
+      "immagine": "/assets/image/airforce3.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 5
+    },
+    {
+      "id": 27,
+      "nome": "Lab Air Zoom SuperRep",
+      "categoria": "Training",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Zoom SuperRep sono scarpe da training con un'ammortizzazione reattiva e una suola stabile per gli esercizi in palestra.",
+      "immagine": "/assets/image/airforce4.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 4
+    },
+    {
+      "id": 28,
+      "nome": "Lab Air Zoom Freak 2",
+      "categoria": "Basket",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Zoom Freak 2 sono scarpe da basket con un'ammortizzazione reattiva e un design ispirato a Giannis Antetokounmpo.",
+      "immagine": "/assets/image/airforce5.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 3
+    },
+    {
+      "id": 29,
+      "nome": "Lab Metcon 7",
+      "categoria": "Training",
+      "prezzo": 139.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Metcon 7 sono scarpe da training progettate per la stabilità e la resistenza, ideali per gli allenamenti più intensi.",
+      "immagine": "/assets/image/airforce6.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 5
+    },
+    {
+      "id": 30,
+      "nome": "Lab React Element 55",
+      "categoria": "Sneakers",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab React Element 55 sono sneakers confortevoli e leggere, ideali per lo stile quotidiano.",
+      "immagine": "/assets/image/airforce7.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 3
+    },
+    {
+      "id": 31,
+      "nome": "Lab Air Max 95",
+      "categoria": "Sneakers",
+      "prezzo": 159.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max 95 sono scarpe iconiche con un design distintivo e un'ammortizzazione Air Max visibile.",
+      "immagine": "/assets/image/airforce8.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 2
+    },
+    {
+      "id": 32,
+      "nome": "Lab Air Zoom Winflo 8",
+      "categoria": "Running",
+      "prezzo": 109.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Zoom Winflo 8 sono scarpe da corsa leggere e reattive, ideali per allenamenti e gare su strada.",
+      "immagine": "/assets/image/airforce19.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 3
+    },
+    {
+      "id": 33,
+      "nome": "Lab Air Force 1 React",
+      "categoria": "Sneakers",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Force 1 React uniscono il classico stile delle Air Force 1 con la reattività della tecnologia React.",
+      "immagine": "/assets/image/airforce10.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 5
+    },
+    {
+      "id": 34,
+      "nome": "Lab Air Max Bella TR 4",
+      "categoria": "Training",
+      "prezzo": 89.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max Bella TR 4 sono scarpe da training leggere e flessibili, ideali per gli allenamenti in palestra o all'aperto.",
+      "immagine": "/assets/image/airforce11.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 5
+    },
+    {
+      "id": 35,
+      "nome": "Lab Air Max Plus",
+      "categoria": "Sneakers",
+      "prezzo": 169.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max Plus sono sneakers iconiche con un design audace e un'ammortizzazione Max Air per il massimo comfort.",
+      "immagine": "/assets/image/airforce12.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 3
+    },
+    {
+      "id": 36,
+      "nome": "Lab Air Zoom Tempo Next%",
+      "categoria": "Running",
+      "prezzo": 199.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Zoom Tempo Next% sono scarpe da corsa ad alte prestazioni con tecnologia ZoomX per la massima reattività.",
+      "immagine": "/assets/image/airforce13.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 5
+    },
+    {
+      "id": 37,
+      "nome": "Lab Air Force 1 Low",
+      "categoria": "Sneakers",
+      "prezzo": 109.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Force 1 Low sono un classico intramontabile, ideali per un look casual e confortevole.",
+      "immagine": "/assets/image/airforce14.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 4
+    },
+    {
+      "id": 38,
+      "nome": "Lab Air Zoom Alphafly NEXT%",
+      "categoria": "Running",
+      "prezzo": 249.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Zoom Alphafly NEXT% sono le scarpe da maratona più avanzate mai realizzate, progettate per la massima prestazione.",
+      "immagine": "/assets/image/airforce15.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 5
+    },
+    {
+      "id": 39,
+      "nome": "Lab Air Max 1",
+      "categoria": "Sneakers",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max 1 sono le iconiche scarpe da corsa che hanno rivoluzionato il mondo delle sneaker, con un design unico e confortevole.",
+      "immagine": "/assets/image/airforce16.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 4
+    },
+    {
+      "id": 40,
+      "nome": "Lab Air Max Plus 2",
+      "categoria": "Sneakers",
+      "prezzo": 179.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max Plus 2 sono il rinnovamento delle iconiche Air Max Plus, con un'ammortizzazione Max Air e uno stile unico.",
+      "immagine": "/assets/image/airforce17.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 3
+    },
+    {
+      "id": 41,
+      "nome": "Lab Air Max 720",
+      "categoria": "Sneakers",
+      "prezzo": 169.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max 720 offrono un'ammortizzazione Air Max a tutta lunghezza, per un comfort e uno stile senza precedenti.",
+      "immagine": "/assets/image/airforce18.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 4
+    },
+    {
+      "id": 42,
+      "nome": "Lab Air Zoom Victory",
+      "categoria": "Running",
+      "prezzo": 179.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Zoom Victory sono scarpe da corsa progettate per la velocità e il comfort, ideali per le gare su strada.",
+      "immagine": "/assets/image/airforce19.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 3
+    },
+    {
+      "id": 43,
+      "nome": "Lab Air Force 1 High",
+      "categoria": "Sneakers",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Force 1 High sono un'icona dello stile urbano, con un'ammortizzazione Air-Sole per il massimo comfort.",
+      "immagine": "/assets/image/airforce20.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 5
+    },
+    {
+      "id": 44,
+      "nome": "Lab Free RN 5.0",
+      "categoria": "Running",
+      "prezzo": 99.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Free RN 5.0 sono scarpe da corsa leggere e flessibili, ideali per allenamenti e percorsi naturali.",
+      "immagine": "/assets/image/airforce11.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 4
+    },
+    {
+      "id": 45,
+      "nome": "Lab Air Max Sequent 3",
+      "categoria": "Sneakers",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max Sequent 3 sono scarpe da corsa comode e versatili, con un'ammortizzazione reattiva per prestazioni ottimali.",
+      "immagine": "/assets/image/airforce22.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 4
+    },
+    {
+      "id": 46,
+      "nome": "Lab Air Zoom Freak 1",
+      "categoria": "Basket",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Zoom Freak 1 sono scarpe da basket con un'ammortizzazione reattiva e un supporto ottimale, per massima performance in campo.",
+      "immagine": "/assets/image/airforce4.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 5
+    },
+    {
+      "id": 47,
+      "nome": "Lab Air Max 98",
+      "categoria": "Sneakers",
+      "prezzo": 179.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max 98 sono scarpe da corsa con un design audace e un'ammortizzazione Air Max a tutta lunghezza.",
+      "immagine": "/assets/image/airforce1.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 4
+    },
+    {
+      "id": 48,
+      "nome": "Lab Zoom Freak 2",
+      "categoria": "Basket",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Zoom Freak 2 sono scarpe da basket con un'ammortizzazione reattiva e un design ispirato alla potenza di Giannis Antetokounmpo.",
+      "immagine": "/assets/image/airforce.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 3
+    },
+    {
+      "id": 49,
+      "nome": "Lab Air Max Axis",
+      "categoria": "Sneakers",
+      "prezzo": 99.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Air Max Axis sono scarpe da corsa ispirate al design degli anni '90, con un'ammortizzazione Air Max e uno stile retrò.",
+      "immagine": "/assets/image/airforce6.webp",
+      "nuovo_arrivi": false,
+      "best_seller": 4
+    },
+    {
+      "id": 50,
+      "nome": "Lab Zoom Pegasus Turbo 2",
+      "categoria": "Running",
+      "prezzo": 179.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Lab Zoom Pegasus Turbo 2 sono scarpe da corsa leggere e veloci, con una schiuma ZoomX per un'ammortizzazione reattiva.",
+      "immagine": "/assets/image/airforce11.webp",
+      "nuovo_arrivi": true,
+      "best_seller": 4
+    }
+  ],
+  "categorie": [
+    {
+      "categoria": "Sneakers",
+      "title": "Sneakers"
+    },
+    {
+      "categoria": "Running",
+      "title": "Running"
+    },
+    {
+      "categoria": "Basket",
+      "title": "Basket"
+    },
+    {
+      "categoria": "Trail Running",
+      "title": "Trail running"
+    },
+    {
+      "categoria": "Training",
+      "title": "Training"
+    }
+  ],
+  "users": [
+    {
+      "email": "naom.cristina@gmail.com",
+      "password": "$2a$10$j0Rpb5Sz/P9q/li06Dy5UOcEJ/52BrY31qYhi2s.A7NUMOoNoHrnS",
+      "firstName": "Cristina",
+      "lastName": "Naom",
+      "address": "via Carlo Cattaneo,6,Pisa",
+      "phone": "3458121670",
+      "id": 1
+    },
+    {
+      "email": "mihaela.cristina@gmail.com",
+      "password": "$2a$10$pIC8hxI3xBGiNjDjUZ2t/uejycdnM2b8bRTW0A0nxG5hruVQ0bElS",
+      "firstName": "Mihaela",
+      "lastName": "Cristina",
+      "address": "via Cristiano Banti,7,Firenze",
+      "phone": "3459784561",
+      "id": 2
+    },
+    {
+      "email": "mihaela.naom@gmail.com",
+      "password": "$2a$10$1YFC8HiTdBNc6B9ItQlwc.kTyDb7FWdgf.3EzRPQEMZ6yPtkepR1y",
+      "firstName": "Mihaela",
+      "lastName": "Naom",
+      "address": "via Vittorio Veneto,5, Calcinaia",
+      "phone": "3458121760",
+      "id": 3
+    },
+    {
+      "email": "matteo.rossi@gmail.com",
+      "password": "$2a$10$MiJCy15Vy1tLHcwA7kqFyeCpw7ar0zZO.6HSPADbiTSdDtfHRQAua",
+      "firstName": "Matteo",
+      "lastName": "Rossi",
+      "address": "via xx settembre, 5 ,Roma",
+      "phone": "3458421760",
+      "id": 4
+    }
+  ],
+  "orders": [
+    {
+      "userId": 1,
+      "cartItems": [
+        {
+          "img": "/assets/image/airforce1.webp",
+          "nome": "Lab Air Max 270",
+          "colore": "Bianco",
+          "taglia": "38",
+          "prezzo": 129.99,
+          "quantity": 1,
+          "totale": 129.99
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "cartItems": [
+        {
+          "img": "/assets/image/airforce3.webp",
+          "nome": "Lab Air Force 1",
+          "colore": "Nero",
+          "taglia": "45",
+          "prezzo": 109.99,
+          "quantity": "3",
+          "totale": 329.96999999999997
+        },
+        {
+          "img": "/assets/image/airforce7.webp",
+          "nome": "Lab Air Zoom Structure 24",
+          "colore": "Bianco/Nero",
+          "taglia": "39",
+          "prezzo": 129.99,
+          "quantity": 1,
+          "totale": 129.99
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "cartItems": [
+        {
+          "img": "/assets/image/airforce11.webp",
+          "nome": "Lab Zoom Pegasus Turbo 2",
+          "colore": "Rosso",
+          "taglia": "38",
+          "prezzo": 179.99,
+          "quantity": 1,
+          "totale": 179.99
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "cartItems": [
+        {
+          "img": "/assets/image/airforce1.webp",
+          "nome": "Lab Air Max 270",
+          "colore": "Bianco",
+          "taglia": "41",
+          "prezzo": 129.99,
+          "quantity": 1,
+          "totale": 129.99
+        },
+        {
+          "img": "/assets/image/airforce1.webp",
+          "nome": "Lab Air Max 270",
+          "colore": "Nero",
+          "taglia": "38",
+          "prezzo": 129.99,
+          "quantity": 1,
+          "totale": 129.99
+        },
+        {
+          "img": "/assets/image/airforce1.webp",
+          "nome": "Lab Air Max 270",
+          "colore": "Nero",
+          "taglia": "38",
+          "prezzo": 129.99,
+          "quantity": 1,
+          "totale": 129.99
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "cartItems": [
+        {
+          "img": "/assets/image/airforce2.webp",
+          "nome": "Lab React Infinity Run Flyknit",
+          "colore": "Nero/Giallo",
+          "taglia": "38",
+          "prezzo": 159.99,
+          "quantity": 1,
+          "totale": 159.99
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "cartItems": [
+        {
+          "img": "/assets/image/airforce6.webp",
+          "nome": "Lab Revolution 5",
+          "colore": "Nero",
+          "taglia": "41",
+          "prezzo": 79.99,
+          "quantity": 1,
+          "totale": 79.99
+        }
+      ],
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "cartItems": [
+        {
+          "img": "/assets/image/airforce14.webp",
+          "nome": "Lab Air Force 1 Low",
+          "colore": "Bianco",
+          "taglia": "38",
+          "prezzo": 109.99,
+          "quantity": 1,
+          "totale": 109.99
+        }
+      ],
+      "id": 7
+    }
+  ]
+}

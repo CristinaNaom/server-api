@@ -1,0 +1,17 @@
+{
+  "name": "server-locale",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:server": "json-server --watch db.json -m ./node_modules/json-server-auth -r routes.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server-auth": "^2.1.0",
+    "server": "^1.0.41"
+  }
+}
